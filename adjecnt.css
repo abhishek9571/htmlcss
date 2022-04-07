@@ -1,0 +1,15 @@
+/*div+h2{
+    color: bisque;
+    background-color: aqua;
+    border-color: blueviolet;
+    font-family: Arial, Helvetica, sans-serif;
+    border-style: groove;
+}
+*/
+div~h2{
+    color: bisque;
+    background-color: rgb(2, 25, 25);
+    border-color: blueviolet;
+    font-family: Arial, Helvetica, sans-serif;
+    border-style: groove;
+}

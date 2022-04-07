@@ -1,0 +1,18 @@
+h1::selection{
+    background-color: #28dd10;
+    color: darkgreen;
+}
+h2::after{
+    content: "**";
+    color: darkkhaki;
+}
+h4::before{
+    content: "^^^";
+    color: purple;
+}
+p::first-letter{
+    color: brown;
+}
+p::first-line{
+    color: blue;
+}

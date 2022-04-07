@@ -1,0 +1,24 @@
+h3{
+    /* in multi line border attribute */
+    border-color: aqua;
+    border-style: groove;
+    border-width: 5px;
+
+    /* in one line outline attribute */
+    outline-width: 10px;outline: darkblue 5px dotted;
+    outline-offset: 5px;
+    border-radius: 10px;
+}
+
+h4{
+    /* in one line border attribute */
+    border: 5px red double;
+    /*outline multi line use property is there*/
+    outline-color: black;
+    outline-width: 10px;
+    outline-style: dotted;
+    outline-offset: 20px;
+
+    padding-left: 700px;
+    margin-top: 50px;
+}
